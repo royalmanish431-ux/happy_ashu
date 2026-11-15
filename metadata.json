@@ -1,0 +1,6 @@
+{
+  "name": "Keepsake — Dynamic Birthday Wishes",
+  "description": "Create and share interactive dynamic birthday wishes featuring a live countdown timer, custom photo gallery, recorded voice notes, heartfelt message box, and social sharing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
